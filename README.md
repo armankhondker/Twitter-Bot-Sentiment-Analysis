@@ -1,5 +1,5 @@
 # Twitter-Bot-Sentiment-Analysis
-A twitter bot used to scrape tweets to use for the PROS Hackathon 2019.
+A twitter bot used to scrape tweets to analyze with sentiment analysis for the PROS Hackathon 2019. 
 
 # Technoligies Used
 
