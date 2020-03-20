@@ -3,7 +3,8 @@ A twitter bot used to scrape tweets to analyze with sentiment analysis for the P
 
 # Technoligies Used
 
-* https://developer.twitter.com/en/docs 
+* Twitter API (https://developer.twitter.com/en/docs) 
 * Python
 * TextBlob Natural Language Processing
+* Scikit-Learn
 
